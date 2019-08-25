@@ -1,5 +1,5 @@
 # synflood
-Flooding a TCP port with SYN messages
+Flooding a TCP port with SYN messages. Created as a project for the INF474X class at polytechnique. header.c structures provided by jiaziyi. 
 
 USAGE :
 
